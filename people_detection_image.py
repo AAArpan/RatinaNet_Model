@@ -4,6 +4,7 @@ from keras_retinanet import models
 from keras_retinanet.utils.image import read_image_bgr, preprocess_image, resize_image
 from keras_retinanet.utils.visualization import draw_box, draw_caption
 from keras_retinanet.utils.colors import label_color
+from google.colab.patches import cv2_imshow
 import matplotlib.pyplot as plt
 import cv2
 import os
@@ -19,12 +20,12 @@ def get_session():
 
 keras.backend.tensorflow_backend.set_session(get_session())
 
-model_path = 'C:\\Users\\Samjith.CP\\Desktop\\test.h5'    ## replace this with your model path
+model_path = '/content/Keras-retinanet-Training-on-custom-datasets-for-Object-Detection--/snapshots/resnet50_csv_04.h5'    ## replace this with your model path
 model = models.load_model(model_path, backbone_name='resnet50')
-labels_to_names = {0: 'person'}                    ## replace with your model labels and its index value
+labels_to_names = {0: 'Pierced',1:'Scratch',2:'Pitting'}                    ## replace with your model labels and its index value
 
-image_path = 'C:\\Users\\Samjith.CP\\Desktop\\first_terrorist_detect\\dataset\\images\\4.jpg'  ## replace with input image path
-output_path = 'C:\\Users\\Samjith.CP\\Desktop\\detected_image.jpg'   ## replace with output image path
+image_path = '/content/Keras-retinanet-Training-on-custom-datasets-for-Object-Detection--/test.jpg'  ## replace with input image path
+output_path = '/content/Keras-retinanet-Training-on-custom-datasets-for-Object-Detection--/detected_image.jpg'   ## replace with output image path
 
 def detection_on_image(image_path):
 
@@ -47,6 +48,6 @@ def detection_on_image(image_path):
             draw_caption(draw, b, caption)
         detected_img =cv2.cvtColor(draw, cv2.COLOR_RGB2BGR)
         cv2.imwrite(output_path, detected_img)
-        cv2.imshow('Detection',detected_img)
+        cv2_imshow('Detection',detected_img)
         cv2.waitKey(0)
 detection_on_image(image_path)
