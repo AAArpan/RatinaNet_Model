@@ -1,26 +1,110 @@
 <annotation>
-	<folder>new_MaierPoC</folder>
+	<folder>BaseStation</folder>
 	<filename>12.jpg</filename>
-	<path>C:\Users\EminEksi\Desktop\new_MaierPoC\12.jpg</path>
+	<path>C:/Users/musta/Desktop/BaseStation/12.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>650</height>
-		<depth>1</depth>
+		<width>339</width>
+		<height>509</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Scratch</name>
+		<name>b</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>397</xmin>
-			<ymin>370</ymin>
-			<xmax>574</xmax>
-			<ymax>411</ymax>
+			<xmin>65</xmin>
+			<ymin>283</ymin>
+			<xmax>89</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>205</ymin>
+			<xmax>136</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>239</ymin>
+			<xmax>84</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>282</ymin>
+			<xmax>123</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>54</ymin>
+			<xmax>129</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>39</ymin>
+			<xmax>143</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>75</ymin>
+			<xmax>158</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>206</ymin>
+			<xmax>157</xmax>
+			<ymax>274</ymax>
 		</bndbox>
 	</object>
 </annotation>

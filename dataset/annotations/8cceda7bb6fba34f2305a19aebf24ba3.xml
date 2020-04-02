@@ -1,0 +1,38 @@
+<annotation>
+	<folder>radio tower</folder>
+	<filename>8cceda7bb6fba34f2305a19aebf24ba3.jpg</filename>
+	<path>C:\Users\k243_\Desktop\radio tower\8cceda7bb6fba34f2305a19aebf24ba3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>578</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>140</ymin>
+			<xmax>402</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>164</ymin>
+			<xmax>171</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

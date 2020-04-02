@@ -1,26 +1,62 @@
 <annotation>
-	<folder>new_MaierPoC</folder>
+	<folder>BaseStation</folder>
 	<filename>162.jpg</filename>
-	<path>C:\Users\EminEksi\Desktop\new_MaierPoC\162.jpg</path>
+	<path>C:/Users/musta/Desktop/BaseStation/162.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>650</height>
-		<depth>1</depth>
+		<width>680</width>
+		<height>1023</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Scratch</name>
+		<name>a</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>431</xmin>
-			<ymin>203</ymin>
-			<xmax>491</xmax>
-			<ymax>234</ymax>
+			<xmin>386</xmin>
+			<ymin>114</ymin>
+			<xmax>403</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>309</ymin>
+			<xmax>614</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>278</ymin>
+			<xmax>98</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymin>619</ymin>
+			<xmax>511</xmax>
+			<ymax>675</ymax>
 		</bndbox>
 	</object>
 </annotation>

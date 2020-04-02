@@ -1,38 +1,74 @@
 <annotation>
-	<folder>new_MaierPoC</folder>
+	<folder>BaseStation</folder>
 	<filename>242.jpg</filename>
-	<path>C:\Users\EminEksi\Desktop\new_MaierPoC\242.jpg</path>
+	<path>C:/Users/musta/Desktop/BaseStation/242.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>650</height>
-		<depth>1</depth>
+		<width>863</width>
+		<height>1280</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Scratch</name>
+		<name>a</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>624</xmin>
-			<ymin>297</ymin>
-			<xmax>755</xmax>
-			<ymax>332</ymax>
+			<xmin>272</xmin>
+			<ymin>156</ymin>
+			<xmax>284</xmax>
+			<ymax>240</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Pierced</name>
+		<name>a</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>58</xmin>
-			<ymin>271</ymin>
-			<xmax>87</xmax>
-			<ymax>290</ymax>
+			<xmin>299</xmin>
+			<ymin>112</ymin>
+			<xmax>317</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>112</ymin>
+			<xmax>430</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>94</ymin>
+			<xmax>549</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymin>121</ymin>
+			<xmax>578</xmax>
+			<ymax>216</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>radio tower</folder>
+	<filename>communication-tower-telephone-relay-antenna-station-cellular_100800-2970.jpg</filename>
+	<path>C:\Users\k243_\Desktop\radio tower\communication-tower-telephone-relay-antenna-station-cellular_100800-2970.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>114</ymin>
+			<xmax>235</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>109</ymin>
+			<xmax>307</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>270</ymin>
+			<xmax>232</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

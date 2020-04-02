@@ -1,0 +1,50 @@
+<annotation>
+	<folder>radio tower</folder>
+	<filename>transmission-tower-61748_960_720.jpg</filename>
+	<path>C:\Users\k243_\Desktop\radio tower\transmission-tower-61748_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>91</ymin>
+			<xmax>216</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>84</ymin>
+			<xmax>295</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>526</ymin>
+			<xmax>413</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,38 +1,86 @@
 <annotation>
-	<folder>new_MaierPoC</folder>
+	<folder>BaseStation</folder>
 	<filename>9.jpg</filename>
-	<path>C:\Users\EminEksi\Desktop\new_MaierPoC\9.jpg</path>
+	<path>C:/Users/musta/Desktop/BaseStation/9.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>650</height>
-		<depth>1</depth>
+		<width>457</width>
+		<height>780</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Scratch</name>
+		<name>a</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>239</xmin>
-			<ymin>298</ymin>
-			<xmax>287</xmax>
-			<ymax>324</ymax>
+			<xmin>250</xmin>
+			<ymin>274</ymin>
+			<xmax>266</xmax>
+			<ymax>337</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Scratch</name>
+		<name>a</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>566</xmin>
-			<ymin>313</ymin>
-			<xmax>632</xmax>
-			<ymax>338</ymax>
+			<xmin>268</xmin>
+			<ymin>259</ymin>
+			<xmax>287</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>116</ymin>
+			<xmax>261</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>140</ymin>
+			<xmax>284</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>76</ymin>
+			<xmax>288</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>104</ymin>
+			<xmax>291</xmax>
+			<ymax>124</ymax>
 		</bndbox>
 	</object>
 </annotation>

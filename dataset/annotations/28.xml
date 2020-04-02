@@ -1,26 +1,110 @@
 <annotation>
-	<folder>new_MaierPoC</folder>
+	<folder>BaseStation</folder>
 	<filename>28.jpg</filename>
-	<path>C:\Users\EminEksi\Desktop\new_MaierPoC\28.jpg</path>
+	<path>C:/Users/musta/Desktop/BaseStation/28.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>650</height>
-		<depth>1</depth>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Pitting</name>
+		<name>a</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>411</xmin>
-			<ymin>324</ymin>
-			<xmax>463</xmax>
-			<ymax>405</ymax>
+			<xmin>1080</xmin>
+			<ymin>2211</ymin>
+			<xmax>1172</xmax>
+			<ymax>2690</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1830</xmin>
+			<ymin>2394</ymin>
+			<xmax>1922</xmax>
+			<ymax>2886</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1151</xmin>
+			<ymin>1324</ymin>
+			<xmax>1276</xmax>
+			<ymax>1644</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1159</xmin>
+			<ymin>799</ymin>
+			<xmax>1242</xmax>
+			<ymax>1053</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1680</xmin>
+			<ymin>965</ymin>
+			<xmax>1730</xmax>
+			<ymax>1207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1684</xmin>
+			<ymin>1503</ymin>
+			<xmax>1767</xmax>
+			<ymax>1619</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1322</xmin>
+			<ymin>569</ymin>
+			<xmax>1380</xmax>
+			<ymax>832</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1417</xmin>
+			<ymin>565</ymin>
+			<xmax>1459</xmax>
+			<ymax>807</ymax>
 		</bndbox>
 	</object>
 </annotation>

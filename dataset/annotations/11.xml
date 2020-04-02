@@ -1,26 +1,38 @@
 <annotation>
-	<folder>new_MaierPoC</folder>
+	<folder>BaseStation</folder>
 	<filename>11.jpg</filename>
-	<path>C:\Users\EminEksi\Desktop\new_MaierPoC\11.jpg</path>
+	<path>C:/Users/musta/Desktop/BaseStation/11.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>650</height>
-		<depth>1</depth>
+		<width>450</width>
+		<height>312</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Scratch</name>
+		<name>b</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>418</xmin>
-			<ymin>414</ymin>
-			<xmax>596</xmax>
-			<ymax>479</ymax>
+			<xmin>87</xmin>
+			<ymin>95</ymin>
+			<xmax>126</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>109</ymin>
+			<xmax>227</xmax>
+			<ymax>159</ymax>
 		</bndbox>
 	</object>
 </annotation>

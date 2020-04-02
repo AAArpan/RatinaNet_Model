@@ -1,26 +1,50 @@
 <annotation>
-	<folder>new_MaierPoC</folder>
+	<folder>BaseStation</folder>
 	<filename>24.jpg</filename>
-	<path>C:\Users\EminEksi\Desktop\new_MaierPoC\24.jpg</path>
+	<path>C:/Users/musta/Desktop/BaseStation/24.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>650</height>
-		<depth>1</depth>
+		<width>1008</width>
+		<height>756</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Pitting</name>
+		<name>a</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>549</xmin>
-			<ymin>387</ymin>
-			<xmax>596</xmax>
-			<ymax>463</ymax>
+			<xmin>166</xmin>
+			<ymin>62</ymin>
+			<xmax>185</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>61</ymin>
+			<xmax>78</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>82</ymin>
+			<xmax>207</xmax>
+			<ymax>255</ymax>
 		</bndbox>
 	</object>
 </annotation>
